@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Conjugueur</string>
+    <string name="parler">parler</string>
+    <string name="conjuguer">conjuguer</string>
+</resources>
